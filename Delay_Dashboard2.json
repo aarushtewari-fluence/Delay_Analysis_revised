@@ -1,0 +1,6500 @@
+[
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "99MW Annan Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Adaptogen Sizing John Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Amplus Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Chanakya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Alessandria Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Bord Na Mona Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Castlereagh Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "ATE Liuying Monthly Performance Report Jan'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Tai-Hsiang Chen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Ballarat Monthly Performance Report Jan'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Broken Hill Monthly Performance Report Jan'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Ehndorf Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Alytus Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Cranbourne BESS Monthly Performance Report Jan'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Joseph Menassa",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Siauliai Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Utena Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Vilnius Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "EDC Bacman Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Romar Mendenilla",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Engie Maxima Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2A Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "EDC Negros Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "EDC Tongonan Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2B Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "ESB Aghada Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Alamitos Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Christian Velasco Jr",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Andes 2B Monthly Performance Report Jan'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Pablo Dominguez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Arica Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "ESB Inchicore Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Chino Valley Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "No Data on Central DAS"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Copperhead Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Callum Watts",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Coso Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Roberto Garcia",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "ESB Poolbeg Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Hazelwood Monthly Performance Report Jan'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Enel Azure Sky Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Corbin Holt",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "ESB Southwall Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Estonian Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Ganado Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Fischbach Monthly Performance Report Jan'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "High Desert Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Chris Bowers",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Imperial Oil Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Lafarge Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "LS Power Diablo Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Ina Fangliao Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Google Data Center Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Mesquite 4 Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Nathaniel Flint",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Mesquite 5 Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Nathaniel Flint",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "NGR Noble Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Corbin Holt",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Greencoat Killala Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "OPG Stratford Monthly Performance Report Jan'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Orsted Eleven Mile Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Skyler",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Pike County Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Red Rock Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "J&V Yilan Monthly Performance Report Jan'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Bryan Kelvianto",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SDGE El Cajon Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SDGE Escondido Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SDGE Fallbrook Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SDGE Kearny 1&2 Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SDGE Melrose Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2A Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Carlo Felix",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2B Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Carlo Felix",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Seaboard Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Jesus Riviera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Ilkaalinen Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SunPower Lincoln Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Dong Job Sin",
+    "Status": "Delayed",
+    "Reason": "No Data on Central DAS"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "SunPower San Diego Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Dong Job Sin",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Issigau Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "Americas",
+    "Site": "Victory Pass Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Koff Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Lumban Monthly Performance Report Jan'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Marvin Domingo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Lemwerder Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Levi Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Madeira Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Mattila Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Muench Beuna 2 Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "LV BESS Monthly Performance Report Jan'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Muench Beuna I Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "MW Storage Ingenbohl Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "MW Storage Kapuli Monthly Performance Report Jan'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "NI Water Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Adrian Galinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Nokia Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Porterstown Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Porto Tolle Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "RAP Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Sao Miguel Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Renew Peak Power Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Chankya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Stadtwerke Leipzig Monthly Performance Report Jan'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Statkraft BT2 Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "RTC Renew Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Ravi Singh",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Statkraft Cushaling Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Statkraft Kelwin Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Terceira Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "UKPR Asfordby Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "UKPR Battery Lane Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "UKPR Cowstead Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "UKPR Percival Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "UKPR Vauxhall Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Vattenfall Bruzaholm Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Vattenfall Hjuleberg Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "APAC",
+    "Site": "Teco Linbian Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Vattenfall HogeVag Monthly Performance Report Jan'26",
+    "Analyst": "Aadil Khan",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Vattenfall Ray Monthly Performance Report Jan'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Wunsiedel Monthly Performance Report Jan'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Zenobe Brindley Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "January",
+    "Region": "EMEA",
+    "Site": "Zenobe Wishaw Monthly Performance Report Jan'26",
+    "Analyst": "Sreeja P R",
+    "FSE": "William Andrew",
+    "Status": "Delayed",
+    "Reason": "Data points change in central DAS"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Adaptogen Sizing John Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "99MW Annan Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Amplus Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Chanakya Reddy",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Alessandria Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Bord Na Mona Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "ATE Liuying Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Tai-Hsiang Chen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Castlereagh Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Ballarat Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Broken Hill Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Ehndorf Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Alamitos Monthly Performance Report Feb'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Christian Velasco Jr",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Andes 2B Monthly Performance Report Feb'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Pablo Dominguez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Arica Monthly Performance Report Feb'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Chino Valley Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Copperhead Monthly Performance Report Feb'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Callum Watts",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Coso Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Roberto Garcia",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Alytus Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Cranbourne BESS Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Joseph Menassa",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Enel Azure Sky Monthly Performance Report Feb'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Corbin Holt",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Siauliai Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Utena Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Estonian Monthly Performance Report Feb'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Ganado Monthly Performance Report Feb'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "High Desert Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Chris Bowers",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Vilnius Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Imperial Oil Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "EDC Bacman Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Romar Mendenilla",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Lafarge Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "LS Power Diablo Monthly Performance Report Feb'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Marsh Landing Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Mesquite 4 Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Nathaniel Flint",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Mesquite 5 Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Nathaniel Flint",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Engie Maxima Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Spyros Katsikidis",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "NGR Noble Monthly Performance Report Feb'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Corbin Holt",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "OPG Stratford Monthly Performance Report Feb'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Orsted Eleven Mile Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Skyler",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Pike County Monthly Performance Report Feb'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2A Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Red Rock Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "EDC Negros Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SDGE El Cajon Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SDGE Escondido Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SDGE Fallbrook Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SDGE Kearny 1&2 Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SDGE Melrose Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2A Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2B Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Seaboard Monthly Performance Report Feb'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jesus Riviera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "sPower Lab Monthly Performance Report Feb'26",
+    "Analyst": "Tanuja Mahabaleshwara",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "sPower Luna Monthly Performance Report Feb'26",
+    "Analyst": "Tanuja Mahabaleshwara",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SunPower Lincoln Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Dong Job Sin",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "SunPower San Diego Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Dong Job Sin",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "EDC Tongonan Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2B Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "ESB Aghada Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "Americas",
+    "Site": "Victory Pass Monthly Performance Report Feb'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "ESB Inchicore Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "ESB Poolbeg Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Hazelwood Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "ESB Southwall Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Fischbach Monthly Performance Report Feb'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Ina Fangliao Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Google Data Center Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Greencoat Killala Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "J&V Yilan Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Bryan Kelvianto",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Ilkaalinen Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Issigau Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Koff Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Lumban Monthly Performance Report Feb'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Marvin Domingo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Lemwerder Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Levi Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Madeira Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Mattila Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Muench Beuna 2 Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "LV BESS Monthly Performance Report Feb'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Muench Beuna I Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "MW Storage Ingenbohl Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "Delayed",
+    "Reason": "Performance Analyst"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "MW Storage Kapuli Monthly Performance Report Feb'26",
+    "Analyst": "Aravind Shankar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "NI Water Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Adrian Galinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Nokia Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Porterstown Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Porto Tolle Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "RAP Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Van Epen/ Norres",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Renew Peak Power Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Sao Miguel Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Stadtwerke Leipzig Monthly Performance Report Feb'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Statkraft BT2 Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "RTC Renew Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Ravi Singh",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Statkraft Cushaling Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Statkraft Kelwin Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Terceira Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "UKPR Asfordby Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "UKPR Battery Lane Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "UKPR Cowstead Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "UKPR Percival Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "UKPR Vauxhall Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Vattenfall Bruzaholm Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Vattenfall Hjuleberg Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "APAC",
+    "Site": "Teco Linbian Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Vattenfall HogeVag Monthly Performance Report Feb'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Vattenfall Ray Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Wunsiedel Monthly Performance Report Feb'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Zenobe Brindley Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "February",
+    "Region": "EMEA",
+    "Site": "Zenobe Wishaw Monthly Performance Report Feb'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "William Andrew",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "99MW Annan Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Adaptogen Sizing John Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Alessandria Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Bord Na Mona Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Amplus Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Chanakya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "ATE Liuying Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Tai-Hsiang Chen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Castlereagh Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Ballarat Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Broken Hill Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Ehndorf Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Alytus Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Siauliai Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Utena Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Cranbourne BESS Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Joseph Menassa",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Vilnius Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "EDC Bacman Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Romar Mendenilla",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Engie Maxima Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "EDC Negros Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2A Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2B Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "EDC Tongonan Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "ESB Aghada Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "ESB Inchicore Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "ESB Poolbeg Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "Delayed",
+    "Reason": "Performance Analyst"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "ESB Southwall Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Hazelwood Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Fischbach Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Ina Fangliao Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Google Data Center Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Greencoat Killala Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "J&V Yilan Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Bryan Kelvianto",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Ilkaalinen Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Issigau Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Koff Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Lemwerder Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Levi Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Lumban Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Marvin Domingo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Madeira Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Mattila Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Muench Beuna 2 Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Muench Beuna I Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "MW Storage Ingenbohl Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "LV BESS Monthly Performance Report Mar'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "MW Storage Kapuli Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "NI Water Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Adrian Galinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Nokia Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Porterstown Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Porto Tolle Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "RAP Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Sao Miguel Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Stadtwerke Leipzig Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Renew Peak Power Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Chankya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Alamitos Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Christian Velasco Jr",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Statkraft BT2 Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Andes 2B Monthly Performance Report Mar'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Pablo Dominguez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Arica Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Chino Valley Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "RTC Renew Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Ravi Singh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Copperhead Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Coso Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Roberto Garcia",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Enel Azure Sky Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Corbin Holt",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Statkraft Cushaling Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Statkraft Kelwin Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Estonian Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Ganado Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "High Desert Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Chris Bowers",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Imperial Oil Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Lafarge Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "LS Power Diablo Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Marsh Landing Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Mesquite 4 Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Nathaniel Flint",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Mesquite 5 Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Nathaniel Flint",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Terceira Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "NGR Noble Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Corbin Holt",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "OPG Stratford Monthly Performance Report Mar'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Orsted Eleven Mile Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Skyler",
+    "Status": "Delayed",
+    "Reason": "Performance Analyst"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Pike County Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "UKPR Asfordby Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Red Rock Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SDGE El Cajon Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SDGE Escondido Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SDGE Fallbrook Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SDGE Kearny 1&2 Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SDGE Melrose Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2A Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2B Monthly Performance Report Mar'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Seaboard Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jesus Riviera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "sPower Lab Monthly Performance Report Mar'26",
+    "Analyst": "Tanuja Mahabaleshwara",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "sPower Luna Monthly Performance Report Mar'26",
+    "Analyst": "Tanuja Mahabaleshwara",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Sun Pond Monthly Performance Report Mar'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Nathaniel Flint",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SunPower Lincoln Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Dong Job Sin",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "SunPower San Diego Monthly Performance Report Mar'26",
+    "Analyst": "Pavani Gopi Veera",
+    "FSE": "Dong Job Sin",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "UKPR Battery Lane Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "UKPR Cowstead Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "Americas",
+    "Site": "Victory Pass Monthly Performance Report Mar'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "UKPR Percival Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "UKPR Vauxhall Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Vattenfall Bruzaholm Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Vattenfall Hjuleberg Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "APAC",
+    "Site": "Teco Linbian Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Vattenfall HogeVag Monthly Performance Report Mar'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Vattenfall Ray Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Wunsiedel Monthly Performance Report Mar'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Zenobe Brindley Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "March",
+    "Region": "EMEA",
+    "Site": "Zenobe Wishaw Monthly Performance Report Mar'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "William Andrew",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "99MW Annan Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Adaptogen Sizing John Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Alamitos Monthly Performance Report Apr'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Christian Velasco Jr",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Andes 2B Monthly Performance Report Apr'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Pablo Dominguez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Arica Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Chino Valley Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Copperhead Monthly Performance Report Apr'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Romar Mendenilla",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Coso Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Roberto Garcia",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Amplus Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Chanakya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Enel Azure Sky Monthly Performance Report Apr'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Corbin Holt",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Alessandria Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Bord Na Mona Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Estonian Monthly Performance Report Apr'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Ganado Monthly Performance Report Apr'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "High Desert Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Chris Bowers",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Imperial Oil Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "ATE Liuying Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Tai-Hsiang Chen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Castlereagh Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Lafarge Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "LS Power Diablo Monthly Performance Report Apr'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Marsh Landing Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "NGR Noble Monthly Performance Report Apr'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Corbin Holt",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "OPG Stratford Monthly Performance Report Apr'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Orsted Eleven Mile Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Skyler",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Pike County Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Ballarat Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Red Rock Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SDGE El Cajon Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SDGE Escondido Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SDGE Fallbrook Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SDGE Kearny 1&2 Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SDGE Melrose Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2A Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2B Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Seaboard Monthly Performance Report Apr'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jesus Riviera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Broken Hill Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "sPower Lab Monthly Performance Report Apr'26",
+    "Analyst": "Kseniya Ruta",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "sPower Luna Monthly Performance Report Apr'26",
+    "Analyst": "Kseniya Ruta",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SunPower Lincoln Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Dong Job Sin",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "SunPower San Diego Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Dong Job Sin",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Ehndorf Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "Americas",
+    "Site": "Victory Pass Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Alytus Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Cranbourne BESS Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Joseph Menassa",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Siauliai Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Utena Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Vilnius Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "EDC Bacman Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Romar Mendenilla",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Engie Maxima Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "EDC Negros Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2A Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "EDC Tongonan Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2B Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "ESB Aghada Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "ESB Inchicore Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "ESB Poolbeg Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Hazelwood Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "ESB Southwall Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Fischbach Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Ina Fangliao Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Google Data Center Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Greencoat Killala Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "J&V Yilan Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Bryan Kelvianto",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Ilkaalinen Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Issigau Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Koff Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Lumban Monthly Performance Report Apr'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Marvin Domingo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Lemwerder Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Levi Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Madeira Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "LV BESS Monthly Performance Report Apr'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jaison Alias",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Mattila Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Muench Beuna 2 Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Muench Beuna I Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "MW Storage Ingenbohl Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "MW Storage Kapuli Monthly Performance Report Apr'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "NI Water Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Adrian Galinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Nokia Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Porterstown Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Porto Tolle Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "RAP Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Renew Peak Power Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Chankya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Sao Miguel Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Stadtwerke Leipzig Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Statkraft BT2 Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "RTC Renew Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Ravi Singh",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Statkraft Cushaling Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Statkraft Kelwin Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Statkraft Zerbst Monthly Performance Report Apr'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Thomas Tusk",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Terceira Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "UKPR Asfordby Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "UKPR Battery Lane Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "UKPR Cowstead Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "UKPR Percival Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "UKPR Vauxhall Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Vattenfall Bruzaholm Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Vattenfall Hjuleberg Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "APAC",
+    "Site": "Teco Linbian Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Vattenfall HogeVag Monthly Performance Report Apr'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Vattenfall Ray Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Wunsiedel Monthly Performance Report Apr'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Tusk",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Zenobe Brindley Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "April",
+    "Region": "EMEA",
+    "Site": "Zenobe Wishaw Monthly Performance Report Apr'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "William Andrew",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "99MW Annan Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Adaptogen Sizing John Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Alessandria Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Bord Na Mona Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Amplus Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Chanakya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "ATE Liuying Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Tai-Hsiang Chen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Castlereagh Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Ballarat Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Broken Hill Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Ehndorf Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Alytus Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Siauliai Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Utena Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Cranbourne BESS Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Joseph Menassa",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Vilnius Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "EDC Bacman Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Romar Mendenilla",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Engie Maxima Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "EDC Negros Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2A Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2B Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "ESB Aghada Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "EDC Tongonan Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "ESB Inchicore Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "ESB Poolbeg Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "ESB Southwall Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Hazelwood Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Fischbach Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Ina Fangliao Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Google Data Center Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Greencoat Killala Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "J&V Yilan Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Bryan Kelvianto",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Ilkaalinen Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Issigau Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Koff Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Lemwerder Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Levi Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Lumban Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Marvin Domingo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Madeira Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Mattila Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Muench Beuna 2 Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Muench Beuna I Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "MW Storage Ingenbohl Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "LV BESS Monthly Performance Report May'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "MW Storage Kapuli Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "NI Water Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Adrian Galinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Nokia Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Porterstown Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Porto Tolle Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "RAP Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Sao Miguel Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Stadtwerke Leipzig Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Renew Peak Power Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Chankya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Statkraft BT2 Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "RTC Renew Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Ravi Singh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Statkraft Cushaling Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Statkraft Kelwin Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Statkraft Zerbst Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Terceira Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "UKPR Asfordby Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "UKPR Battery Lane Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "UKPR Cowstead Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Alamitos Monthly Performance Report May'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Christian Velasco Jr",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Andes 2B Monthly Performance Report May'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Pablo Dominguez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Arica Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "UKPR Percival Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Chino Valley Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Copperhead Monthly Performance Report May'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Coso Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Roberto Garcia",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Diablo Monthly Performance Report May'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "UKPR Vauxhall Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Enel Azure Sky Monthly Performance Report May'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Vattenfall Bruzaholm Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Estonian Monthly Performance Report May'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Ganado Monthly Performance Report May'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Vattenfall Hjuleberg Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "High Desert Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Chris Bowers",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Imperial Oil Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Lafarge Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "APAC",
+    "Site": "Teco Linbian Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Marsh Landing Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Vattenfall HogeVag Monthly Performance Report May'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "NGR Noble Monthly Performance Report May'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Corbin Holt",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "OPG Stratford Monthly Performance Report May'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Orsted Eleven Mile Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Skyler",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Pike County Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Vattenfall Ray Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Red Rock Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SDGE El Cajon Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SDGE Escondido Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SDGE Fallbrook Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SDGE Kearny 1&2 Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SDGE Melrose Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2A Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2B Monthly Performance Report May'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Seaboard Monthly Performance Report May'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jesus Riviera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "sPower Lab Monthly Performance Report May'26",
+    "Analyst": "Kseniya Ruta",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "sPower Luna Monthly Performance Report May'26",
+    "Analyst": "Kseniya Ruta",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Wunsiedel Monthly Performance Report May'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SunPower Lincoln Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Dong Job Sin",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "SunPower San Diego Monthly Performance Report May'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Dong Job Sin",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Zenobe Brindley Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "Americas",
+    "Site": "Victory Pass Monthly Performance Report May'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "May",
+    "Region": "EMEA",
+    "Site": "Zenobe Wishaw Monthly Performance Report May'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "William Andrew",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "99MW Annan Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Adaptogen Sizing John Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Alessandria Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Bord Na Mona Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Amplus Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Chanakya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "ATE Liuying Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Tai-Hsiang Chen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Castlereagh Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Ballarat Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Broken Hill Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Ehndorf Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Alytus Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Siauliai Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Utena Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Cranbourne BESS Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Joseph Menassa",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Vilnius Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "EDC Bacman Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Romar Mendenilla",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Engie Maxima Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "EDC Negros Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2A Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2B Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "ESB Aghada Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "EDC Tongonan Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "ESB Inchicore Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "ESB Poolbeg Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "ESB Southwall Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Hazelwood Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Fischbach Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Ina Fangliao Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Google Data Center Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Greencoat Killala Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "J&V Yilan Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Bryan Kelvianto",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Ilkaalinen Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Issigau Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Koff Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Lemwerder Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Levi Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Lumban Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Marvin Domingo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Madeira Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Mattila Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Muench Beuna 2 Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Muench Beuna I Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "MW Storage Ingenbohl Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "LV BESS Monthly Performance Report Jun'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jaison Alias",
+    "Status": "Delayed",
+    "Reason": "Outages not reviewed on time by FSE"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Alamitos Monthly Performance Report Jun'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Christian Velasco Jr",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Andes 2B Monthly Performance Report Jun'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Pablo Dominguez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Angela Monthly Performance Report Jun'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Bryan Vera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Arica Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "MW Storage Kapuli Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Chino Valley Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Copperhead Monthly Performance Report Jun'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Coso Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Roberto Garcia",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Diablo's Monthly Performance Report June'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Enel Azure Sky Monthly Performance Report Jun'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "NI Water Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Adrian Galinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Nokia Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Estonian Monthly Performance Report Jun'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Ganado Monthly Performance Report Jun'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "High Desert Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Chris Bowers",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Porterstown Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Imperial Oil Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Lafarge Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Marsh Landing Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Porto Tolle Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "NGR Noble Monthly Performance Report Jun'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "OPG Stratford Monthly Performance Report Jun'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Orsted Eleven Mile Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Skyler",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Pike County Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "RAP Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Red Rock Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SDGE El Cajon Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SDGE Escondido Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SDGE Fallbrook Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SDGE Kearny 1&2 Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SDGE Melrose Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2A Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2B Monthly Performance Report Jun'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Seaboard Monthly Performance Report Jun'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jesus Riviera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "sPower Lab Monthly Performance Report Jun'26",
+    "Analyst": "Kseniya Ruta",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "sPower Luna Monthly Performance Report Jun'26",
+    "Analyst": "Kseniya Ruta",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Sao Miguel Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SunPower Lincoln Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Dong Job Sin",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "SunPower San Diego Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Dong Job Sin",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Stadtwerke Leipzig Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "Americas",
+    "Site": "Victory Pass Monthly Performance Report Jun'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Renew Peak Power Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Chankya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Statkraft BT2 Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "RTC Renew Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Ravi Singh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Statkraft Cushaling Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Statkraft Kelwin Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Statkraft Zerbst Monthly Performance Report Jun'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Terceira Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "UKPR Asfordby Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "UKPR Battery Lane Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "UKPR Cowstead Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "UKPR Percival Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "UKPR Vauxhall Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Vattenfall Bruzaholm Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Vattenfall Hjuleberg Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "APAC",
+    "Site": "Teco Linbian Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Vattenfall HogeVag Monthly Performance Report Jun'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Vattenfall Ray Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Wunsiedel Monthly Performance Report Jun'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Zenobe Brindley Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "June",
+    "Region": "EMEA",
+    "Site": "Zenobe Wishaw Monthly Performance Report Jun'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "William Andrew",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "99MW Annan Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Adaptogen Sizing John Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Alessandria Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Amplus Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Chanakya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Bord Na Mona Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "ATE Liuying Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Tai-Hsiang Chen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Castlereagh Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Ballarat Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Broken Hill Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Nathan Fleet",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Ehndorf Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Alytus Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Siauliai Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Utena Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Cranbourne BESS Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Joseph Menassa",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Energy Cells - Vilnius Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Reuben Jiminez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "EDC Bacman Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Romar Mendenilla",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Engie Maxima Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "EDC Negros Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2A Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "ESB Aghada 2B Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "ESB Aghada Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "EDC Tongonan Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Jeperjune Lambo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "ESB Inchicore Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "ESB Poolbeg Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "ESB Southwall Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Hazelwood Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Fischbach Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Ina Fangliao Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Google Data Center Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Greencoat Killala Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Adrian Terence Gallinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Ilkaalinen Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Issigau Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Koff Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Alamitos Monthly Performance Report Jul'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Christian Velasco Jr",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Andes 2B Monthly Performance Report Jul'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Pablo Dominguez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Angela Monthly Performance Report Jul'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Bryan Vera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Arica Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Chino Valley Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Copperhead Monthly Performance Report Jul'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Coso Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Roberto Garcia",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Lumban Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Marvin Domingo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Enel Azure Sky Monthly Performance Report Jul'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jake Chavez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Lemwerder Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Nils Schnibben",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Levi Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Estonian Monthly Performance Report Jul'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jake Chavez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Ganado Monthly Performance Report Jul'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Michael Maximus",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "High Desert Monthly Performance Report Jul'26",
+    "Analyst": "Tanuja Mahabaleshwara",
+    "FSE": "Chris Bowers",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Imperial Oil Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Madeira Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Lafarge Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Marsh Landing Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Rafael Ramirez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Mattila Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "NGR Noble Monthly Performance Report Jul'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jake Chavez",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "OPG Stratford Monthly Performance Report Jul'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jawad Khattak",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Orsted Eleven Mile Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Skyler",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Pike County Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Wesley House",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Red Rock Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Jeff Klob",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Muench Beuna 2 Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SDGE El Cajon Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SDGE Escondido Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Slater Grimes",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SDGE Fallbrook Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SDGE Kearny 1&2 Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SDGE Melrose Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Cesar Romo",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2A Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "Delayed",
+    "Reason": "No data on Central DAS"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SDGE Westside Canal 2B Monthly Performance Report Jul'26",
+    "Analyst": "Debanjan Sutradhar",
+    "FSE": "Carlo Felix",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Seaboard Monthly Performance Report Jul'26",
+    "Analyst": "Aarush Tewari",
+    "FSE": "Jesus Riviera",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "sPower Lab Monthly Performance Report Jul'26",
+    "Analyst": "Kseniya Ruta",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "sPower Luna Monthly Performance Report Jul'26",
+    "Analyst": "Kseniya Ruta",
+    "FSE": "Giovanni Lara",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SunPower Lincoln Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Dong Job Sin",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "SunPower San Diego Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Dong Job Sin",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "LV BESS Monthly Performance Report Jul'26",
+    "Analyst": "Richard Lyman",
+    "FSE": "Jaison Alias",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Muench Beuna I Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "MW Storage Ingenbohl Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "Americas",
+    "Site": "Victory Pass Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Gabriel M",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "MW Storage Kapuli Monthly Performance Report Jul'26",
+    "Analyst": "Anish Jha",
+    "FSE": "Norres Ezekiel Varghese",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "NI Water Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Adrian Galinagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Nokia Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Porterstown Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Shane Murtagh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Porto Tolle Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Eva Urbano",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "RAP Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas van Epen",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Sao Miguel Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Renew Peak Power Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Chankya Reddy",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Stadtwerke Leipzig Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Jochen Hofste",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Statkraft BT2 Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "RTC Renew Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Ravi Singh",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Statkraft Cushaling Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Robert Lewis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Statkraft Kelwin Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Keith Ryan",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Statkraft Zerbst Monthly Performance Report Jul'26",
+    "Analyst": "Sruujan S",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Terceira Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Christian Mann",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "UKPR Asfordby Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "UKPR Battery Lane Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "UKPR Cowstead Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "UKPR Percival Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "UKPR Vauxhall Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Vattenfall Bruzaholm Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Vattenfall Hjuleberg Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "APAC",
+    "Site": "Teco Linbian Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Kevin Pema Bayili",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Vattenfall HogeVag Monthly Performance Report Jul'26",
+    "Analyst": "Garv Gupta",
+    "FSE": "Spyros Katsikidis",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Vattenfall Ray Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Lewis Grove",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Wunsiedel Monthly Performance Report Jul'26",
+    "Analyst": "Himanshu Kumar",
+    "FSE": "Thomas Tusk",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Zenobe Brindley Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "Billy Rich",
+    "Status": "On Time",
+    "Reason": "On Time"
+  },
+  {
+    "Month": "July",
+    "Region": "EMEA",
+    "Site": "Zenobe Wishaw Monthly Performance Report Jul'26",
+    "Analyst": "Rehmataj S",
+    "FSE": "William Andrew",
+    "Status": "On Time",
+    "Reason": "On Time"
+  }
+]

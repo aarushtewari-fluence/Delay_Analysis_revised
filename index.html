@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Report Delay Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+
+<header class="header">
+
+    <div>
+        <p class="eyebrow">
+            Performance Analytics
+        </p>
+
+        <h1>
+            Report Delay Analysis Dashboard
+        </h1>
+
+        <p class="subtitle">
+            Compliance tracking across regions and sites
+        </p>
+
+        <div class="filter-container">
+  
+        <label for="monthFilter">
+        Select Month
+        </label>
+
+        <select id="monthFilter">
+        <option value="All">All Months</option>
+        </select>
+
+</div>
+
+        
+    </div>
+
+   <img src="logo.png" alt="Website Logo" class="fluence-logo">
+
+</header>
+
+
+<div class="kpi-grid">
+
+    <article class="kpi-card">
+        <p>Total Reports</p>
+        <h2 id="total">0</h2>
+    </article>
+
+    <article class="kpi-card success">
+        <p>On Time</p>
+        <h2 id="ontime">0</h2>
+    </article>
+
+    <article class="kpi-card danger">
+        <p>Delayed</p>
+        <h2 id="delayed">0</h2>
+    </article>
+
+    <article class="kpi-card accent">
+        <p>Compliance %</p>
+        <h2 id="compliance">0%</h2>
+    </article>
+
+</div>
+
+<!-- <section class="panel">
+
+    <div class="panel-heading">
+        <h2>Monthly Compliance Trend</h2>
+        <p>Percentage of reports submitted on time</p>
+    </div>
+
+    <div class="chart-container">
+        <canvas id="monthlyChart"></canvas>
+    </div>
+
+</section>
+
+<section class="panel">
+
+    <div class="panel-heading">
+        <h2>Regional Performance</h2>
+        <p>On-time compliance by region</p>
+    </div>
+
+    <div class="chart-container">
+        <canvas id="regionChart"></canvas>
+    </div> -->
+<!-- 
+</section> -->
+
+<div class="chart-grid">
+
+    <section class="panel">
+        <div class="panel-heading">
+            <h2>Monthly Compliance Trend</h2>
+        </div>
+
+        <div class="chart-container">
+            <canvas id="monthlyChart"></canvas>
+        </div>
+    </section>
+
+    <section class="panel">
+        <div class="panel-heading">
+            <h2>Regional Performance</h2>
+        </div>
+
+        <div class="chart-container">
+            <canvas id="regionChart"></canvas>
+        </div>
+    </section>
+
+</div>
+
+
+
+<section class="panel">
+
+    <div class="panel-heading">
+        <h2>Regional Reporting Summary</h2>
+
+        <p>
+            Report outcomes as a percentage of each region's total
+        </p>
+    </div>
+
+    <div class="table-wrapper">
+
+        <table class="summary-table">
+
+            <thead>
+                <tr>
+                    <th>Region / Reason</th>
+                    <th>Total Reports</th>
+                    <th>% Completion</th>
+                </tr>
+            </thead>
+
+            <tbody id="reasonSummaryTable">
+            </tbody>
+
+        </table>
+
+    </div>
+
+</section>
+
+
+<div class="panel-heading reason-chart-header">
+
+    <div>
+        <h2>Delay Reason Breakdown</h2>
+
+        <p>
+            Percentage distribution of delayed reports by reason
+        </p>
+    </div>
+
+    <div class="chart-filter">
+
+        <label for="reasonRegionFilter">
+            Region
+        </label>
+
+        <select id="reasonRegionFilter">
+
+            <option value="All">
+                All Regions
+            </option>
+
+        </select>
+
+    </div>
+
+</div>
+
+<div class="chart-container reason-chart-container">
+
+    <canvas id="reasonChart"></canvas>
+
+</div>
+
+
+
+<section class="panel">
+
+    <div class="panel-heading">
+        <h2>Delayed Reports</h2>
+        <p id="exceptionText">
+            Reports requiring attention
+        </p>
+    </div>
+
+    <table>
+
+        <thead>
+            <tr>
+                <th>Month</th>
+                <th>Region</th>
+                <th>Site</th>
+                <th>Analyst</th>
+                <th>Status</th>
+                <th>Reason</th>
+            </tr>
+        </thead>
+
+        <tbody id="delayTable">
+
+        </tbody>
+
+    </table>
+
+</section>
+
+<script src="app.js"></script>
+
+</body>
+</html>
